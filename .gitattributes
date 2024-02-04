@@ -1,2 +1,5 @@
+# Adding config.py file.
+api_keys.py
+
 # Auto detect text files and perform LF normalization
 * text=auto
